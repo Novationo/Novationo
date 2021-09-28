@@ -1,10 +1,11 @@
-### 🐈‍⬛ Hi there 🦤
+### 🐈‍⬛ Hi there 
 
 Important ~~shit~~ stuff:<br>
 Working on: how ~~the fuck~~ html, and java work <br>
 Pronouns: He / They: but i dont really give two shits <br>
 fact: im stupid
-
+Q: why isnt your website open source anymore
+A: personal skool ~~shit~~ or something
 <!--
 **Novationo/Novationo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
