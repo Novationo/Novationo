@@ -1,4 +1,4 @@
-### 🐈‍⬛ Hi there 
+### (╯°□°）╯︵ ┻━┻ Hi there (*/ω＼*)
 
 Important ~~shit~~ stuff:<br>
 Working on: how ~~the fuck~~ html, and java work <br>
