@@ -6,8 +6,8 @@ Pronouns: He / They: but i dont really give two shits <br>
 fact: im stupid <br>
 Q: why isnt your website open source anymore <br>
 A: personal skool ~~shit~~ or something
-
 anyway...
+
 ![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novationo&theme=dark&show_icons=true)
 
 <!--
