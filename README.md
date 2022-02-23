@@ -12,7 +12,7 @@ A: personal skool ~~shit~~ or something
 - **WEB-BROWSER:** Brave 🦁
 - **Favorite Trojan Horse:** Clippy 
 
-ノ( ゜-゜ノ) anyway...
+ノ( ゜-゜ノ) anyway...<br>
 ![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novationo&theme=dark&show_icons=true)
 <p align="left">
 	<img src="https://i.imgur.com/aPawrTP.png"  height="16" alt="header"/><br/></p>
