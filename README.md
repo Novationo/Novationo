@@ -1,26 +1,18 @@
-### Hi there (*/ω＼*)
+<h3 align="center"> Hi there (*/ω＼*)<br/></h3>
 
-Important ~~shit~~ stuff:<br>
 Working on: how ~~the fuck~~ html, and java work <br>
-Pronouns: He / They: but i dont really give two shits <br>
-fact: im stupid <br>
 Q: why isnt your website open source anymore <br>
-A: personal skool ~~shit~~ or something <br>
+A: personal skool ~~shit~~ or something 
+
+**INFO or Something:**
+- **fact:** I'm big dumb
+- **OS:**  Fedora 35 & Windows 11 🪟
+- **Working on...**
+- **Pronouns:**  They / He - I Could Care Less Though (∩^o^)⊃
+- **WEB-BROWSER:** Brave 🦁
+- **Favorite Trojan Horse:** Clippy 
+
 ノ( ゜-゜ノ) anyway...
-
 ![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novationo&theme=dark&show_icons=true)
-
-<!--
-**Novationo/Novationo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+	<img src="https://i.imgur.com/aPawrTP.png"  height="16" alt="header"/><br/></p>
