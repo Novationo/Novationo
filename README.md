@@ -10,7 +10,7 @@ A: personal skool ~~shit~~ or something
 - **Working on...**
 - **Pronouns:**  They / He - I Could Care Less Though (∩^o^)⊃
 - **WEB-BROWSER:** Brave 🦁
-- **Favorite Trojan Horse:** Clippy 
+- **Favorite Trojan Horse:** Clippy ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 ノ( ゜-゜ノ) anyway...<br>
 ![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novationo&theme=dark&show_icons=true)
