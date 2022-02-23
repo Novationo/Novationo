@@ -5,7 +5,7 @@ Working on: how ~~the fuck~~ html, and java work <br>
 Pronouns: He / They: but i dont really give two shits <br>
 fact: im stupid <br>
 Q: why isnt your website open source anymore <br>
-A: personal skool ~~shit~~ or something
+A: personal skool ~~shit~~ or something <br>
 anyway...
 
 ![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novationo&theme=dark&show_icons=true)
