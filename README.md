@@ -5,7 +5,7 @@
 - **OS:**  Fedora 35 & Windows 11 🪟
 - **Working on...** life... (html, md, node, java, plz hlep) <br>
 - **Pronouns:**  They / He - I Could Care Less Though (∩^o^)⊃
-- **WEB-BROWSER:** Brave 🦁
+- **WEB-BROWSER:** Firefox 🦊 (Former Brave User)
 - **Favorite Trojan Horse:** Clippy ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 ノ( ゜-゜ノ) anyway...<br>
