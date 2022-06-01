@@ -2,7 +2,7 @@
 
 **INFO or Something:**
 - **Fact:** I'm big dumb
-- **OS:**  Fedora 35 & Windows 11 🪟
+- **OS:** Windows 11 🪟 & Ubuntu (UEFI Moment)
 - **Working on...** life... (html, md, node, java, plz hlep) <br>
 - **Pronouns:**  They / He - I Could Care Less Though (∩^o^)⊃
 - **WEB-BROWSER:** Firefox 🦊 (Former Brave User)
